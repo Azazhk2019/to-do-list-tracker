@@ -9,6 +9,7 @@ A simple console-based Todo List application built with JavaScript.
 - Remove tasks
 - Display all tasks with status
 
+
 🚀 Future Plans
 Add a command-line interface (CLI) for interactive task input
 
